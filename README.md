@@ -1,4 +1,4 @@
-# Projeto-de-Software-APS
+
 ## EQUIPE
 
 + Ana Carolina Martins Soares - 537624
